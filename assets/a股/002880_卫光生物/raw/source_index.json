@@ -1,0 +1,37 @@
+{
+  "symbol": "002880",
+  "generated_at": "2026-06-28T23:59:03",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002880_卫光生物\\raw\\002880_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\002880_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002880_卫光生物\\raw\\002880_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\002880_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002880_卫光生物\\raw\\002880_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\002880_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002880_卫光生物\\raw\\002880_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\002880_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\002880_卫光生物\\raw\\002880_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\002880_announcements.json"
+    }
+  ]
+}

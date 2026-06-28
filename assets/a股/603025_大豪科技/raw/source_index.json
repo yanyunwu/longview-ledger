@@ -1,0 +1,37 @@
+{
+  "symbol": "603025",
+  "generated_at": "2026-06-28T23:59:02",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603025_大豪科技\\raw\\603025_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\603025_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603025_大豪科技\\raw\\603025_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\603025_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603025_大豪科技\\raw\\603025_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\603025_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603025_大豪科技\\raw\\603025_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\603025_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\603025_大豪科技\\raw\\603025_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\603025_announcements.json"
+    }
+  ]
+}

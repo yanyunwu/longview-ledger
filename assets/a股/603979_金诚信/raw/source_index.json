@@ -1,0 +1,37 @@
+{
+  "symbol": "603979",
+  "generated_at": "2026-06-28T23:59:02",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603979_金诚信\\raw\\603979_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\603979_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603979_金诚信\\raw\\603979_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\603979_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603979_金诚信\\raw\\603979_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\603979_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603979_金诚信\\raw\\603979_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\603979_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\603979_金诚信\\raw\\603979_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\603979_announcements.json"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "symbol": "002463",
+  "generated_at": "2026-06-28T23:59:02",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002463_沪电股份\\raw\\002463_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\002463_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002463_沪电股份\\raw\\002463_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\002463_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002463_沪电股份\\raw\\002463_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\002463_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002463_沪电股份\\raw\\002463_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\002463_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\002463_沪电股份\\raw\\002463_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\002463_announcements.json"
+    }
+  ]
+}

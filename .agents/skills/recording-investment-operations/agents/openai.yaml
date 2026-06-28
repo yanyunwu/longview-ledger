@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recording Investment Operations"
+  short_description: "Record trades, positions, and operation notes"
+  default_prompt: "Use $recording-investment-operations to record my latest trade or position change."

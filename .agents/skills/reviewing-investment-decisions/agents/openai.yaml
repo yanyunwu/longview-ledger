@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reviewing Investment Decisions"
+  short_description: "Review trades, theses, mistakes, and lessons"
+  default_prompt: "Use $reviewing-investment-decisions to review this investment decision."

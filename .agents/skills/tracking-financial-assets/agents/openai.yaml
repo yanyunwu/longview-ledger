@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tracking Financial Assets"
+  short_description: "Update asset research dossiers consistently"
+  default_prompt: "Use $tracking-financial-assets to update an asset research dossier."

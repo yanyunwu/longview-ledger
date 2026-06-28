@@ -1,0 +1,37 @@
+{
+  "symbol": "600276",
+  "generated_at": "2026-06-28T23:59:03",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600276_恒瑞医药\\raw\\600276_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\600276_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600276_恒瑞医药\\raw\\600276_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\600276_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600276_恒瑞医药\\raw\\600276_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\600276_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600276_恒瑞医药\\raw\\600276_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\600276_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\600276_恒瑞医药\\raw\\600276_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\600276_announcements.json"
+    }
+  ]
+}

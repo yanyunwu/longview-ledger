@@ -1,0 +1,37 @@
+{
+  "symbol": "002832",
+  "generated_at": "2026-06-28T23:59:02",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002832_比音勒芬\\raw\\002832_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\002832_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002832_比音勒芬\\raw\\002832_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\002832_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002832_比音勒芬\\raw\\002832_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\002832_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002832_比音勒芬\\raw\\002832_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\002832_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\002832_比音勒芬\\raw\\002832_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\002832_announcements.json"
+    }
+  ]
+}

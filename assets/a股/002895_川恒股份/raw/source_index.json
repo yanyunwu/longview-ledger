@@ -1,0 +1,37 @@
+{
+  "symbol": "002895",
+  "generated_at": "2026-06-28T23:59:03",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002895_川恒股份\\raw\\002895_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\002895_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002895_川恒股份\\raw\\002895_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\002895_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002895_川恒股份\\raw\\002895_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\002895_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002895_川恒股份\\raw\\002895_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\002895_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\002895_川恒股份\\raw\\002895_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\002895_announcements.json"
+    }
+  ]
+}

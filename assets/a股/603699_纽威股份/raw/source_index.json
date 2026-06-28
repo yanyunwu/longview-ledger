@@ -1,0 +1,37 @@
+{
+  "symbol": "603699",
+  "generated_at": "2026-06-28T23:59:02",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603699_纽威股份\\raw\\603699_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\603699_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603699_纽威股份\\raw\\603699_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\603699_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603699_纽威股份\\raw\\603699_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\603699_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\603699_纽威股份\\raw\\603699_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\603699_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\603699_纽威股份\\raw\\603699_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\603699_announcements.json"
+    }
+  ]
+}

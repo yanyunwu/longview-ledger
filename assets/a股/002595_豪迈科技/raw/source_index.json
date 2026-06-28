@@ -1,0 +1,37 @@
+{
+  "symbol": "002595",
+  "generated_at": "2026-06-28T23:59:03",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002595_豪迈科技\\raw\\002595_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\002595_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002595_豪迈科技\\raw\\002595_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\002595_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002595_豪迈科技\\raw\\002595_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\002595_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002595_豪迈科技\\raw\\002595_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\002595_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\002595_豪迈科技\\raw\\002595_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\002595_announcements.json"
+    }
+  ]
+}

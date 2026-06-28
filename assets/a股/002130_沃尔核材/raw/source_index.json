@@ -1,0 +1,37 @@
+{
+  "symbol": "002130",
+  "generated_at": "2026-06-28T23:59:03",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002130_沃尔核材\\raw\\002130_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\002130_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002130_沃尔核材\\raw\\002130_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\002130_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002130_沃尔核材\\raw\\002130_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\002130_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\002130_沃尔核材\\raw\\002130_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\002130_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\002130_沃尔核材\\raw\\002130_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\002130_announcements.json"
+    }
+  ]
+}

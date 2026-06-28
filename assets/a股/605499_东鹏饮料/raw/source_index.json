@@ -1,0 +1,37 @@
+{
+  "symbol": "605499",
+  "generated_at": "2026-06-28T23:59:02",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\605499_东鹏饮料\\raw\\605499_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\605499_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\605499_东鹏饮料\\raw\\605499_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\605499_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\605499_东鹏饮料\\raw\\605499_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\605499_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\605499_东鹏饮料\\raw\\605499_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\605499_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\605499_东鹏饮料\\raw\\605499_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\605499_announcements.json"
+    }
+  ]
+}

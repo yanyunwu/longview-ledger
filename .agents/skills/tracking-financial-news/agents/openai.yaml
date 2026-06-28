@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tracking Financial News"
+  short_description: "Track market news and link it to assets"
+  default_prompt: "Use $tracking-financial-news to record and assess this market news."

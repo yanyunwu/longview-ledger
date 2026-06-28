@@ -1,0 +1,1 @@
+datetime,asset_class,symbol,name,action,quantity,price,currency,amount,fee,account,position_pct,strategy_type,reason,expected_outcome,invalidation_condition,source_message,created_at

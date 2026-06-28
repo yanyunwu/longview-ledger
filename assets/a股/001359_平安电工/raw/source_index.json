@@ -1,0 +1,37 @@
+{
+  "symbol": "001359",
+  "generated_at": "2026-06-28T23:59:03",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\001359_平安电工\\raw\\001359_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\001359_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\001359_平安电工\\raw\\001359_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\001359_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\001359_平安电工\\raw\\001359_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\001359_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\001359_平安电工\\raw\\001359_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\001359_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\001359_平安电工\\raw\\001359_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\001359_announcements.json"
+    }
+  ]
+}

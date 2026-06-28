@@ -1,0 +1,37 @@
+{
+  "symbol": "600660",
+  "generated_at": "2026-06-28T23:59:02",
+  "source_archive": null,
+  "files": [
+    {
+      "kind": "finance",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600660_福耀玻璃\\raw\\600660_finance.json",
+      "workspace_raw": "data_raw\\eastmoney\\600660_finance.json"
+    },
+    {
+      "kind": "profile",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600660_福耀玻璃\\raw\\600660_profile.json",
+      "workspace_raw": "data_raw\\eastmoney\\600660_profile.json"
+    },
+    {
+      "kind": "quote",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600660_福耀玻璃\\raw\\600660_quote.json",
+      "workspace_raw": "data_raw\\eastmoney\\600660_quote.json"
+    },
+    {
+      "kind": "kline",
+      "provider": "eastmoney",
+      "asset_raw": "assets\\a股\\600660_福耀玻璃\\raw\\600660_kline.json",
+      "workspace_raw": "data_raw\\eastmoney\\600660_kline.json"
+    },
+    {
+      "kind": "announcements",
+      "provider": "cninfo",
+      "asset_raw": "assets\\a股\\600660_福耀玻璃\\raw\\600660_announcements.json",
+      "workspace_raw": "data_raw\\cninfo\\600660_announcements.json"
+    }
+  ]
+}
