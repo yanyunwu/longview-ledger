@@ -13,11 +13,35 @@
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "781bd6d3f9b19f8c9af6b53d8d0e4876d0183841b565db34ca7092ffa412d111"
     },
+    "longbridge-fundamentals": {
+      "source": "longbridge/skills",
+      "sourceType": "github",
+      "skillPath": "skills/longbridge-fundamentals/SKILL.md",
+      "computedHash": "870d1bbf1d5540e85893739fa6ae33e07793709cb16383cb4401b69480ac68d0"
+    },
+    "longbridge-research": {
+      "source": "longbridge/skills",
+      "sourceType": "github",
+      "skillPath": "skills/longbridge-research/SKILL.md",
+      "computedHash": "b1368b201bee3539be6a9a8b30699e933fefe7375712ec3a788022af128853f9"
+    },
+    "longbridge-value-investing": {
+      "source": "longbridge/skills",
+      "sourceType": "github",
+      "skillPath": "skills/longbridge-value-investing/SKILL.md",
+      "computedHash": "9c8a82602ec878abfae0f6594ee150be94a40f3132d744ab0502382633f22e3e"
+    },
     "skill-creator": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/skill-creator/SKILL.md",
       "computedHash": "7e3c9cd74e9e2b4828527a857170e86310f2dab5ea8030a9043df2c7e6c88857"
+    },
+    "tushare": {
+      "source": "waditu-tushare/skills",
+      "sourceType": "github",
+      "skillPath": "tushare/SKILL.md",
+      "computedHash": "4dc6e955be773fa84f9c9989c487b75eac026752b4a54fba29c5e0be966838c5"
     }
   }
 }

@@ -20,16 +20,15 @@ The default investing style is value investing. Short-term speculation is allowe
 - `templates/`: reusable Markdown templates.
 - `data_raw/`: raw source data cache.
 - `scripts/`: generation and verification scripts.
-- `skills/`: project-local skills for this workspace.
 
 ## Local Skills
 
 Read the matching local skill before acting:
 
-- `skills/tracking-financial-assets/SKILL.md`: use when adding or updating an asset dossier, financial research, valuation, K-line observations, or operation suggestions for a symbol.
-- `skills/recording-investment-operations/SKILL.md`: use when the user says they bought, sold, added, reduced, cleared, transferred, received dividends, changed cash, or changed position sizing.
-- `skills/reviewing-investment-decisions/SKILL.md`: use when reviewing a trade, wrong judgment, thesis change, monthly result, or lesson learned.
-- `skills/tracking-financial-news/SKILL.md`: use when recording, classifying, or linking global, macro, industry, company, commodity, or crypto news.
+- `.agents/skills/tracking-financial-assets/SKILL.md`: use when adding or updating an asset dossier, financial research, valuation, K-line observations, or operation suggestions for a symbol.
+- `.agents/skills/recording-investment-operations/SKILL.md`: use when the user says they bought, sold, added, reduced, cleared, transferred, received dividends, changed cash, or changed position sizing.
+- `.agents/skills/reviewing-investment-decisions/SKILL.md`: use when reviewing a trade, wrong judgment, thesis change, monthly result, or lesson learned.
+- `.agents/skills/tracking-financial-news/SKILL.md`: use when recording, classifying, or linking global, macro, industry, company, commodity, or crypto news.
 
 ## Data Discipline
 
